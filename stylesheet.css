@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Istok+Web&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
+
+body{
+    background-color: #040C18;
+    margin: 0;
+    padding: 0;
+}
+
+.titleDiv{
+    box-sizing: border-box;
+    width: 100%;
+    height: 170px;
+    font-family: 'Istok Web', sans-serif;
+
+    border-bottom: 2px solid #B86EE2;
+    background: #0A4179;
+}
+
+h1{
+    text-align: center;
+    color:white;
+    font-family: 'Inter';
+    font-size: 48px;
+
+    margin: 0;
+    padding: 20px;
+}
+
+#box1Div{
+    box-sizing: border-box;
+    width: 450px;
+    height: 100vh;
+
+    background: #042C54;
+    border: 2px solid #FF4820;
+
+    margin: 0;
+}
+
+#box2Div{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 450px;
+    height: 100vh;
+    left: 489px;
+    top: 0px;
+    
+    background: #042C54;
+    border: 2px solid #FF4820;
+}
+
+#box3Div{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 450px;
+    height: 100vh;
+    left: 980px;
+    top: 0px;
+
+    background: #042C54;
+    border: 2px solid #FF4820;
+}
+
+#box4Div{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 450px;
+    height: 100vh;
+    left: 1470px;
+    top: 0px;
+    
+    background: #042C54;
+    border: 2px solid #FF4820;
+}
+
+.textDiv{
+    position: absolute;
+    width: 400px;
+    height: 79.72vh;
+    left: 25px;
+    top: 193px;
+
+    color: white;
+    font-size: 26px;
+    text-align: center;
+    font-family: 'Manrope', sans-serif;
+}
