@@ -30,8 +30,8 @@ h1{
 
 #box1Div{
     box-sizing: border-box;
-    width: 450px;
     height: 100vh;
+    width: 450px;
 
     background: #042C54;
     border: 2px solid #FF4820;
@@ -43,10 +43,10 @@ h1{
     box-sizing: border-box;
 
     position: absolute;
-    width: 450px;
     height: 100vh;
     left: 489px;
     top: 0px;
+    width: 450px;
     
     background: #042C54;
     border: 2px solid #FF4820;
@@ -56,10 +56,10 @@ h1{
     box-sizing: border-box;
 
     position: absolute;
-    width: 450px;
     height: 100vh;
     left: 980px;
     top: 0px;
+    width: 450px;
 
     background: #042C54;
     border: 2px solid #FF4820;
@@ -69,10 +69,10 @@ h1{
     box-sizing: border-box;
 
     position: absolute;
-    width: 450px;
     height: 100vh;
     left: 1470px;
     top: 0px;
+    width: 450px;
     
     background: #042C54;
     border: 2px solid #FF4820;
@@ -89,4 +89,8 @@ h1{
     font-size: 26px;
     text-align: center;
     font-family: 'Manrope', sans-serif;
+}
+
+ul{
+    text-align: left;
 }
